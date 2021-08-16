@@ -5,7 +5,7 @@
 > In this project, I have set up a trial project site to join Microverse!
 
 
-![screenshot](./sc-landingpage.png)
+![screenshot](./diego-img.png)
 
 
 ## Built With
